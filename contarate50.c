@@ -9,3 +9,4 @@ int main(){
  return 0;   
 
 }
+/*Esse código imprime todos os números de 0 a 50*/
