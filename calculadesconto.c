@@ -12,3 +12,5 @@ int main(){
 
     return 0;
 }
+/*Nesse código em C, o programa solicita ao usuário um preço e um desconto, 
+calcula o valor com desconto e exibe ambos o valor com desconto e o valor do desconto aplicado*/
