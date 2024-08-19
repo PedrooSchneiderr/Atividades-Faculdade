@@ -8,3 +8,5 @@
             printf("%f", nsalario); 
     return 0;
     }
+/*Esse código em C calcula o novo salário após um aumento de 50% e imprime esse valor, 
+aplicando o aumento ao salário original e exibe o resultado*/
