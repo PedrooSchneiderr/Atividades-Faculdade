@@ -11,3 +11,4 @@ int main() {
 
     return 0;
 }
+//Esse código em C solicita ao usuário um número e, em seguida, imprime os dez números consecutivos a partir desse valor.
