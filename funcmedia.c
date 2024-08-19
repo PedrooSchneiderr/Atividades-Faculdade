@@ -21,3 +21,4 @@ int main() {
 
     return 0;
 }
+/*Calcula a média final de um estudante, porém utilizando função*/
