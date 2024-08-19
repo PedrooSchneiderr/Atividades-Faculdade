@@ -9,3 +9,4 @@ int main(){
  return 0;   
 
 }
+/*Esse codigo demonstra uma estrutura de repetição simples*/
