@@ -11,3 +11,5 @@ int main(){
     printf("Novo salario: %d\n", novo_salario);
     return 0;
 }
+/*Esse código em C solicita ao usuário o salário e o aumento percentual desejado, 
+calcula o novo salário e exibe o resultado.*/
